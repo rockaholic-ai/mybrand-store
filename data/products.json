@@ -1,0 +1,29 @@
+[
+  {
+    "id": "alpha",
+    "name": "Alpha Phone",
+    "price": 799,
+    "priceText": "$799",
+    "img": "/products/alpha.jpg",
+    "specs": "6.1\" • A16 • 128GB",
+    "description": "Alpha Phone — compact powerhouse with beautiful rounded design."
+  },
+  {
+    "id": "neo",
+    "name": "Neo Tablet",
+    "price": 999,
+    "priceText": "$999",
+    "img": "/products/neo.jpg",
+    "specs": "11\" • M2 • 256GB",
+    "description": "Neo Tablet — creative companion with long battery and pen support."
+  },
+  {
+    "id": "buds",
+    "name": "Aura Buds",
+    "price": 199,
+    "priceText": "$199",
+    "img": "/products/buds.jpg",
+    "specs": "ANC • 30h",
+    "description": "Aura Buds — balanced sound, smart ANC, long battery life."
+  }
+]
